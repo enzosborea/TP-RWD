@@ -2,5 +2,16 @@ body {
     margin: 0;
 }
 
-title1 {
+#titleone {
+    margin-top: 7em;
+    margin-bottom: 14em;
+    text-align: center;
+}
+
+#titleonetext {
+    font-size: 1.1em;
+}
+
+#sectionbody {
+    margin: 1em;
 }
