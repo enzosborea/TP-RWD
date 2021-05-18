@@ -1,3 +1,11 @@
+
+header{
+  background-image: url('img6.jpg');
+  background-size: cover;
+  height: 50vh;
+  margin:0;
+}
+
 body {
     margin: 0;
     width: 100%;
@@ -5,15 +13,18 @@ body {
     padding-bottom: 3rem;
 }
 
+
 #titleone {
-    padding-top: 7em;
-    padding-bottom: 10em;
+  padding-top:100px;
+    margin-bottom: 14em;
     text-align: center;
-    background-image: url(img6.jpg);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #titleonetext {
-    font-size: 1.1em;
+    font-size: 1.5em;
+    color: purple;
 }
 
 .sectionbody {
