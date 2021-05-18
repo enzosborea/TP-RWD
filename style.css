@@ -3,7 +3,6 @@ header{
   background-image: url('img6.jpg');
   background-size: cover;
   height: 50vh;
-  margin:0;
 }
 
 body {
@@ -140,4 +139,20 @@ img {
 
   .card_image{
     clip-path: polygon(100% 0, 100% 70%, 0% 90%, 0% 0%);
+    }
+
+    @media screen and (min-width: 1080px){
+      header{
+        height: 100vh;
+      }
+
+      #titleone{
+        text-align: left;
+        padding-left: 20%;
+        padding-top:45vh;
+        font-size: 32px;
+      }
+      .cards_item{
+        width: 30vw;
+      }
     }
