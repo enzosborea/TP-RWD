@@ -157,9 +157,13 @@ img {
       }
       .img img{
         width: 30vw;
-
+      }
+      h4{
+        margin-left:10vw;
       }
       .flex{
+        margin-left: 10vw;
+        margin-right: 10vw;
         display: flex;
       }
       .sous-flex{
@@ -169,6 +173,8 @@ img {
       }
       .flex2{
         display: flex;
+        margin-left: 10vw;
+        margin-right: 10vw;
         flex-direction: row-reverse;
       }
     }
