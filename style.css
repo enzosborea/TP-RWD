@@ -6,9 +6,10 @@ body {
 }
 
 #titleone {
-    margin-top: 7em;
-    margin-bottom: 14em;
+    padding-top: 7em;
+    padding-bottom: 10em;
     text-align: center;
+    background-image: url(img6.jpg);
 }
 
 #titleonetext {
@@ -128,4 +129,5 @@ img {
 
   .card_image{
     clip-path: polygon(100% 0, 100% 70%, 0% 90%, 0% 0%);
+    
     }
