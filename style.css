@@ -125,3 +125,7 @@ img {
     margin-top: 35px;
     text-align: center;
   }
+
+  .card_image{
+    clip-path: polygon(100% 0, 100% 70%, 0% 90%, 0% 0%);
+    }
